@@ -1,6 +1,18 @@
-# 💫 About Me:
-I am currently working on:<br><br>Building data-driven projects that combine machine learning with real-world applications, including improving my ML models and exploring analytics use cases in digital advertising and finance.<br>Looking to collaborate on:<br><br>Data science, machine learning, and analytics projects that involve real business problems, especially in digital marketing, predictive analytics, or AI-driven decision-making.<br>Looking for help with:<br><br>Gaining industry exposure in data science, understanding how analytics is applied in digital advertising, and improving my model deployment and cloud skills.<br><br>Currently learning:<br><br>Advanced machine learning techniques, Power BI dashboards, and practical applications of AWS for data and analytics workflows.<br>Ask me about:<br><br>My Student Exam Score Prediction project, Tata GenAI Data Analytics simulation, or building data-driven web applications like my Fitness & Nutrition platform (Saarthi).<br>Fun fact:<br><br>I’m the Vice President of the Mharo Rajasthan Club at VIT Bhopal and have organized cultural events while balancing tech and leadership roles.I enjoy turning messy data into clean, meaningful insights that actually help people make better decisions.<br>
+💫 About Me
 
+🔭 Building ML-powered, data-driven projects for real-world use (analytics in digital advertising & finance)
+
+🤝 Open to collaborating on Data Science, ML & Analytics projects solving real business problems
+
+🧠 Seeking industry exposure in data science, digital advertising analytics, and model deployment + cloud
+
+📚 Learning Advanced ML, Power BI dashboards, and AWS for data workflows
+
+💬 Ask me about Student Exam Score Prediction, Tata GenAI Analytics simulation, and my Fitness & Nutrition platform (Saarthi)
+
+🌟 Vice President, Mharo Rajasthan Club – VIT Bhopal | Balancing tech, leadership & culture
+
+✨ I enjoy turning messy data into meaningful insights
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuvraj_raajpurohit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvraj-rajpurohit-) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YuvrajRajp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvrajrajpurohitt@gmail.com) 
