@@ -8,8 +8,6 @@
 
 📚 Learning Advanced ML, Power BI dashboards, and AWS for data workflows
 
-💬 Ask me about Student Exam Score Prediction, Tata GenAI Analytics simulation, and my Fitness & Nutrition platform (Saarthi)
-
 🌟 Vice President, Mharo Rajasthan Club – VIT Bhopal | Balancing tech, leadership & culture
 
 ✨ I enjoy turning messy data into meaningful insights
