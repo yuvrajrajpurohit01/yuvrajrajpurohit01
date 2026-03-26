@@ -5,14 +5,18 @@ on:
   schedule:
     - cron: "0 */12 * * *"
 
+permissions:
+  contents: write   # ✅ THIS LINE FIXES YOUR ERROR
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: yuvrajrajpurohit01
@@ -20,7 +24,7 @@ jobs:
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Deploy to output branch
+      - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
