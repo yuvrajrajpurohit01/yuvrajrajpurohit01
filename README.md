@@ -1,142 +1,205 @@
-<h3 align="left">Hey 👋What's Up? Yuvraj This Side!</h3>
+<div align="center">
 
-## 👋 Hi, I'm Yuvraj Rajpurohit  
+<!-- Header Banner -->
+<svg width="100%" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0c4a6e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0ea5e9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="1000" height="200" fill="url(#bgGradient)"/>
+  
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="1000" height="5" fill="url(#accentGrad)"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="100" cy="50" r="3" fill="#06b6d4" opacity="0.6"/>
+  <circle cx="150" cy="80" r="2" fill="#0ea5e9" opacity="0.5"/>
+  <circle cx="900" cy="40" r="2.5" fill="#06b6d4" opacity="0.6"/>
+  <circle cx="850" cy="120" r="2" fill="#0ea5e9" opacity="0.5"/>
+  
+  <!-- Main text -->
+  <text x="500" y="90" font-family="'Segoe UI', Roboto, sans-serif" font-size="52" font-weight="800" fill="#ffffff" text-anchor="middle">
+    Hey, I'm Yuvraj 👋
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="500" y="140" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" fill="#cbd5e1" text-anchor="middle" font-weight="400">
+    AI/ML Engineer | Hackathon Builder | Open Source Enthusiast
+  </text>
+  
+  <!-- Bottom accent -->
+  <line x1="300" y1="165" x2="700" y2="165" stroke="url(#accentGrad)" stroke-width="3" stroke-linecap="round"/>
+</svg>
 
-🚀 Data Science & ML Enthusiast | AWS Learner  
-
-📩 Open to ML, AI & data-driven collaborations  
+</div>
 
 ---
 
-**🔭 Working on:** ML projects & scalable systems  
-**🌱 Learning:** Advanced ML, AWS, System Design  
+I'm an **AI/ML Engineer** passionate about building systems that solve real-world problems. Based in **Jodhpur, Rajasthan**, I'm currently pursuing an **Integrated M.Tech in Computational & Data Science** at VIT Bhopal University while gaining hands-on experience through internships and competitive hackathons.
 
-**☁️ Skills:**  
-AWS (EC2, S3, Lambda, DynamoDB) · Pandas · NumPy · EDA · Scikit-learn  
-
-**💻 Languages:**  
-Python · Java · C++ · SQL  
-
-**🤝 Collaboration:**  
-ML projects · Research · Open Source  
-
-**💬 Ask me about:**  
-ML · Data Science · AWS · DSA  
-
-**⚡ Fun fact:**  
-Love building real-world projects & leading events 🚀  
+I love the intersection of **AI, cloud infrastructure, and practical problem-solving**. Whether it's training models on real datasets, designing scalable APIs, or automating complex workflows, I'm driven by the challenge of turning ideas into production-grade systems.
 
 ---
 
-**📫 Contact:**  
-📧 yuvrajrajpurohitt@gmail.com  
-🔗 https://linkedin.com/in/yuvraj-rajpurohit-ds
+## 👨‍💻 About Me
 
+```
+┌───────────────────────────────────────────────────────┐
+│                                                       │
+│  📍 Location: Jodhpur, Rajasthan, India              │
+│  🎓 Education: VIT Bhopal | Integrated M.Tech      │
+│  📊 CGPA: 8.82/10                                    │
+│                                                       │
+│  🔍 Interests: ML Systems, RAG, Vector Search,      │
+│               Cloud Infrastructure, Open Source      │
+│                                                       │
+│  🏆 Achievements: AWS Certified, IIT Jodhpur        │
+│                  Internship, Hackathon Builder       │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
 
-## 🌐 Socials:
-<div align="center">
+---
 
-  <a href="https://www.linkedin.com/in/yuvraj-rajpurohit-ds">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+## 🚀 What I'm Building
 
-  <a href="mailto:yuvrajrajpurohitt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+I work across the full spectrum of machine learning — from **data exploration and model training** to **API design and cloud deployment**. 
 
-  <a href="https://instagram.com/yuvraj_raajpurohit">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+My recent projects include:
 
-  <a href="https://wa.me/919462615776">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+🔹 **RunForge** – An intelligent system that learns from past incidents to generate automated runbooks  
+🔹 **DisasterSense** – Deep learning models predicting natural disasters with 88%+ accuracy  
+🔹 **BTIP** – Real-time traffic optimization (Flipkart Gridlock Hackathon)  
+🔹 **Learning Intelligence Tool** – ML system identifying at-risk students early  
 
-  <a href="https://t.me/919462615776">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+I'm fascinated by **production systems**: How do we take research ideas and make them reliable, scalable, and useful at scale?
 
-</div>
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-</div>
+## 💡 My Journey
 
+Started with curiosity about **data and patterns**. Moved into competitive programming and ML competitions. Realized I loved the **engineering part** — taking models from notebooks into real systems that people use.
 
-## 📊 GitHub Stats
+Along the way, I've:
+- 🏆 Built projects in **hackathons** with teams I love working with
+- 📚 Learned from **IIT Jodhpur internship** experience
+- 🤝 Collaborated with brilliant engineers and researchers
+- 🎬 Started documenting my journey on **YouTube & LinkedIn**
+- ☁️ Got deeper into **cloud architecture and DevOps**
+
+The best part? **Learning in public** and helping others understand these concepts.
+
+---
+
+## 🛠️ Tech I Work With
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajrajpurohit01&show_icons=true&theme=dracula" height="150" />
+**Languages**: Python • Java • SQL
 
-  <img src="https://streak-stats.demolab.com?user=yuvrajrajpurohit01&theme=dracula" height="150" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajrajpurohit01&layout=compact&theme=dracula" height="150" />
-
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajrajpurohit01&theme=dracula" />
+**ML/AI**: Scikit-learn • TensorFlow • PyTorch • RAG Systems • Vector Search  
+**Backend**: FastAPI • REST APIs • CI/CD (GitHub Actions)  
+**Cloud**: AWS • Docker • Streamlit  
+**Data Tools**: Pandas • NumPy • FAISS • Matplotlib • Seaborn  
 
 </div>
 
-## 🚀 Featured Projects
+---
 
-- 🤖 AI-Powered Learning Intelligence Tool  
-- 🌿 Banana Leaf Disease Prediction  
-- 📊 Student Exam Score Predictor  
-- 🏋️ Saarthi Fitness & Nutrition Platform  
+## 🎯 What Gets Me Excited
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+✨ **Solving Real Problems** – Projects with measurable impact  
+✨ **Learning & Teaching** – Sharing knowledge, growing together  
+✨ **Collaborative Building** – Great teams doing ambitious things  
+✨ **Production Engineering** – Making systems reliable and scalable  
+✨ **Open Source** – Contributing and learning from the community  
 
-###
+---
 
+## 📍 Currently
 
-###
-###
+- 🎓 Wrapping up coursework, diving deeper into production ML systems
+- 🎬 Creating content about ML projects and technical learnings
+- 🤝 Open to collaborations on meaningful problems
+- 🚀 Building the next version of something interesting
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvrajrajpurohit01/yuvrajrajpurohit01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvrajrajpurohit01/yuvrajrajpurohit01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yuvrajrajpurohit01/yuvrajrajpurohit01/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=footer&theme=tokyonight" width="100%" />
-</p>
+## 🔗 Connect With Me
 
+<div align="center">
+
+| | |
+|---|---|
+| 📧 **Email** | yuvrajrajpurohitt@gmail.com |
+| 🔗 **LinkedIn** | [linkedin.com/in/yuvraj-rajpurohit](https://linkedin.com/in/yuvraj-rajpurohit) |
+| 🎥 **YouTube** | Documenting ML projects and technical journeys |
+| 💻 **GitHub** | You're looking at it! |
+| ☎️ **Phone** | +91 9462615776 |
+
+</div>
+
+---
+
+## 🎲 Random Facts About Me
+
+<table>
+<tr>
+<td width="33%">
+
+🏃‍♂️ **Competitive Hackathons**  
+Love the energy and collaborative problem-solving
+
+</td>
+<td width="33%">
+
+📖 **Continuous Learner**  
+Always exploring new tech, papers, and frameworks
+
+</td>
+<td width="33%">
+
+🌍 **Impact-Driven**  
+Care about building things that matter
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### Let's Talk!
+
+Whether it's **project ideas**, **collaboration opportunities**, or just **nerding out about ML** — I'm always up for a good conversation.
+
+Feel free to reach out on LinkedIn or send an email. I love meeting people building interesting things.
+
+---
+
+```
+✓ Open to: Internships, Freelance Projects, Hackathons, Collaborations
+✓ Looking for: Mentorship, Learning Opportunities, Impact-Driven Work
+✓ Timezone: IST (UTC+5:30)
+```
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ & a lot of ☕**
+
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-blue?style=flat-square&labelColor=0f172a&color=06b6d4)](https://github.com/yuvrajrajpurohit01)
+
+</div>
