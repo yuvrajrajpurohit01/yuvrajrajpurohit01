@@ -75,7 +75,7 @@ I work across the full spectrum of machine learning — from **data exploration 
 
 My recent projects include:
 
-🔹 **RunForge** – An intelligent system that learns from past incidents to generate automated runbooks  
+🔹 **RunForage** – An intelligent system that learns from past incidents to generate automated runbooks  
 🔹 **DisasterSense** – Deep learning models predicting natural disasters with 88%+ accuracy  
 🔹 **BTIP** – Real-time traffic optimization (Flipkart Gridlock Hackathon)  
 🔹 **Learning Intelligence Tool** – ML system identifying at-risk students early  
