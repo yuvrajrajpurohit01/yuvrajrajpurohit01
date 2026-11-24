@@ -143,7 +143,7 @@ The best part? **Learning in public** and helping others understand these concep
 | 🔗 **LinkedIn** | [linkedin.com/in/yuvraj-rajpurohit](https://linkedin.com/in/yuvraj-rajpurohit) |
 | 🎥 **YouTube** | Documenting ML projects and technical journeys |
 | 💻 **GitHub** | You're looking at it! |
-| ☎️ **Phone** | +91 9462615776 |
+
 
 </div>
 
